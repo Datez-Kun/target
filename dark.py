@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #coding=utf-8
-
+#kembangkan :v
 from __future__ import print_function
 import platform, os, sys, time, smtplib
 
